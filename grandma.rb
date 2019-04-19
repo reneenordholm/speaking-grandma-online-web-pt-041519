@@ -13,4 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if "I"
+  if "I LOVE YOU GRANDMA!"
+    puts 
